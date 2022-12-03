@@ -30,7 +30,7 @@
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
+<p align=center>sarvepalli Technologies - Consultant, Training, Development Center.</p>
 <p align=center><small>Copyrights 2019 by <a href="http://sarvepallitechnologies.com/">Mithun Technologies</a> </small></p>
 
 </body>
